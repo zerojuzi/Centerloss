@@ -17,7 +17,7 @@ num_classes = 10
 epochs = 50
 
 
-isCenterloss = False
+isCenterloss = True
 
 
 
